@@ -9,6 +9,6 @@
 
 <ol>
     <li>Join the Book Loop GitHub Org by raising an issue (you will receive an invitation)</li>
-    <li> Join our Book Loop <a href="https://discord.gg/f9TX9ymP">Discord</a> community, where you can chat with the community and also ask any questions</li>
+    <li> Join our Book Loop <a href="https://discord.gg/f9TX9ymP" target="_blank">Discord</a> community, where you can chat with the community and also ask any questions</li>
     <li> Checkout the <a href="https://github.com/Book-Loop/.github/blob/main/CONTRIBUTING.md">contribution guide</a> if you want to contribute into it</li>
 </ol>
