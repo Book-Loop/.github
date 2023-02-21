@@ -1,6 +1,6 @@
 <div align="center">
   <h2> A Subscription Model For Writers To Continuously Update Their Books</h2>
-  <p> The Book Loop is a subscription based service that provides an opportunity for the writers to earn continuously from their books by providing multiple versions, mentorship, videos, courses, etc around that topic.</p>
+  <p> The Book Loop is a subscription based service that provides an opportunity for the writers to continuously earn from their books by providing multiple versions, mentorship, videos, courses, etc about that book.</p>
   <p> There will be an incentive for authors so that they update their books and get paid from it. </p>
   <p>This organization is open to all kinds of ideas that will make it more inclusive and helpful for writers.</p>
 </div>
