@@ -120,7 +120,7 @@ The team will review your pull request and provide feedback as needed. Once your
 
 ## **Communication and Collaboration**
 
-We encourage all contributors to communicate with the team and collaborate with one another to create the best possible project management software in CLI.
+We encourage all contributors to communicate with the team and collaborate with one another to create the best possible platform for book readers.
 
 Here are some guidelines for communication and collaboration:
 
