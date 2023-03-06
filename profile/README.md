@@ -1,4 +1,4 @@
-![Book-Loop](https://user-images.githubusercontent.com/64713734/222501110-65366fd0-af4a-4b06-a2db-aa776ae1dffd.png)
+![Untitled design (1)](https://user-images.githubusercontent.com/64713734/223121325-fc833337-8df5-462b-b839-dcf8e60eb90d.png)
 
 <div align="center">
   <h2> A Subscription Model For Writers To Continuously Update Their Books</h2>
